@@ -1,7 +1,3 @@
 # Spring Core "Atelier Pratique"
 
-Spring Framework est une plate-forme Java qui fournit une infrastructure compl`ete pour le d´eveloppement d’applications
-Java. Spring s’occupe de l’infrastructure pour que vous puissiez vous concentrer sur votre application.
-Spring vous permet de cr´eer des applications `a partir de ”plain old Java objects” (POJO) et d’appliquer des services
-d’entreprise de mani`ere non invasive aux POJO. Cette capacit´e s’applique au mod`ele de programmation Java SE
-et `a Java EE complet ou partiel.
+Spring Framework est une plate-forme Java qui fournit une infrastructure complete pour le d´enveloppement d’applications Java. Spring s'occupe de l'infrastructure pour que vous puissiez vous concentrer sur votre application. Spring vous permet de créer des applications à partir de "plain old Java objets" (POJO) et d'appliquer des services d'entreprises de Maniere non invasive aux POJO. Cette capacité s'applique au modele de programmation Java SE et à Java EE complet ou partiel.
